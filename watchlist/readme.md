@@ -1,6 +1,9 @@
 
 # Watchlist
 Example application for flask tutorial
+[demo](https://koresamuel.pythonanywhere.com/)
+username: admin
+password: admin111
 
 ## Installation
 
